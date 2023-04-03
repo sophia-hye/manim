@@ -1,0 +1,9 @@
+# data
+pandas
+numpy
+
+# animation engine
+manim
+
+# jupyter notebook
+ipython[notebook]
